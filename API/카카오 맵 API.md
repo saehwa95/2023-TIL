@@ -58,3 +58,6 @@
 ```
   
 ## 사용할 페이지에 import 해주기!!
+  
+![image](https://user-images.githubusercontent.com/100126319/211039848-76cde859-adaa-4311-b340-48ffca4a430d.png)
+
