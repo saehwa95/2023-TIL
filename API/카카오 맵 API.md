@@ -36,5 +36,25 @@
 
   export default KakaoMap;
 ```
+## kakao map 컴포넌트 생성 (패키지 사용)
+- kakao maps api를 리액트에 맞게 활용할 수 있는 패키지를 설치하면 코드가 절반으로 줄어든다. 
+- ```yarn add react-kakao-maps-sdk```
+  
+```javaScript
+  import React from "react";
+  import { Map } from "react-kakao-maps-sdk";
+
+  const KakaoMap = () => {
+    return (
+      <Map
+        center={{ lat: 33.450701, lng: 126.570667 }}
+        style={{ width: "375px", height: "812px" }}
+        level={3}
+      />
+    );
+  };
+
+  export default KakaoMap;
+```
   
 ## 사용할 페이지에 import 해주기!!
