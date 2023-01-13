@@ -16,11 +16,4 @@
 - 최적화에 대한 공부
   - 프론트엔드 개발자로서 성능을 높일 수 있는 코드를 끊임없이 고민하기 
 
-## 1일 1답 STUDY
-### study plan
-- 시작 날짜 : 2022-01-03
-- 스터디  : 월 ~ 토 PM 21:00 
-### study member
-- 장세화 : https://github.com/saehwa95
-- 정창원 : https://github.com/jungjang
-- 조형준 : https://github.com/cho98
+
